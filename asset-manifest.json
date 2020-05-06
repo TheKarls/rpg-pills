@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/rpg-pills/static/css/main.d1b05096.chunk.css",
-    "main.js": "/rpg-pills/static/js/main.c645b768.chunk.js",
-    "main.js.map": "/rpg-pills/static/js/main.c645b768.chunk.js.map",
+    "main.css": "/rpg-pills/static/css/main.9a6187de.chunk.css",
+    "main.js": "/rpg-pills/static/js/main.7a10d70e.chunk.js",
+    "main.js.map": "/rpg-pills/static/js/main.7a10d70e.chunk.js.map",
     "runtime-main.js": "/rpg-pills/static/js/runtime-main.f13ca426.js",
     "runtime-main.js.map": "/rpg-pills/static/js/runtime-main.f13ca426.js.map",
-    "static/js/2.697d7adc.chunk.js": "/rpg-pills/static/js/2.697d7adc.chunk.js",
-    "static/js/2.697d7adc.chunk.js.map": "/rpg-pills/static/js/2.697d7adc.chunk.js.map",
+    "static/js/2.794dfd13.chunk.js": "/rpg-pills/static/js/2.794dfd13.chunk.js",
+    "static/js/2.794dfd13.chunk.js.map": "/rpg-pills/static/js/2.794dfd13.chunk.js.map",
     "index.html": "/rpg-pills/index.html",
-    "precache-manifest.1fd44f5e73d8ff03e3ff55feae9243c9.js": "/rpg-pills/precache-manifest.1fd44f5e73d8ff03e3ff55feae9243c9.js",
+    "precache-manifest.a75e8772320d086e26849268db1179ac.js": "/rpg-pills/precache-manifest.a75e8772320d086e26849268db1179ac.js",
     "service-worker.js": "/rpg-pills/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/rpg-pills/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.697d7adc.chunk.js.LICENSE.txt": "/rpg-pills/static/js/2.697d7adc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/rpg-pills/static/media/logo.5d5d9eef.svg"
+    "static/css/main.9a6187de.chunk.css.map": "/rpg-pills/static/css/main.9a6187de.chunk.css.map",
+    "static/js/2.794dfd13.chunk.js.LICENSE.txt": "/rpg-pills/static/js/2.794dfd13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f13ca426.js",
-    "static/js/2.697d7adc.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c645b768.chunk.js"
+    "static/js/2.794dfd13.chunk.js",
+    "static/css/main.9a6187de.chunk.css",
+    "static/js/main.7a10d70e.chunk.js"
   ]
 }
