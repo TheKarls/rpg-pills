@@ -1,0 +1,23 @@
+body{
+    background-color: $bgc;
+}
+
+.coming{
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    .logo{
+        height: 70vh;
+        width: auto;
+
+    }
+
+    h1{
+        color: $text-color;
+
+    }
+}
