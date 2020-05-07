@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "567b8c2bd59ccaf91c6d005b86c569af",
+    "revision": "fa9004439297cd6df67e346dda068855",
     "url": "/rpg-pills/index.html"
   },
   {
-    "revision": "e65d9e3beaedf0ed4d07",
-    "url": "/rpg-pills/static/css/main.9a6187de.chunk.css"
+    "revision": "66947a56efd698a11d6a",
+    "url": "/rpg-pills/static/css/main.932e3bc8.chunk.css"
   },
   {
     "revision": "826774331bd625f6ec64",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rpg-pills/static/js/2.794dfd13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e65d9e3beaedf0ed4d07",
-    "url": "/rpg-pills/static/js/main.7a10d70e.chunk.js"
+    "revision": "66947a56efd698a11d6a",
+    "url": "/rpg-pills/static/js/main.4f50c912.chunk.js"
   },
   {
     "revision": "5c3c5d9c65db09d6ab45",
     "url": "/rpg-pills/static/js/runtime-main.f13ca426.js"
+  },
+  {
+    "revision": "31a60fa913e792f9d2186c0d60e8e495",
+    "url": "/rpg-pills/static/media/icon.31a60fa9.svg"
   }
 ]);
