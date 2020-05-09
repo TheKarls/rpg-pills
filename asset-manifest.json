@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rpg-pills/static/css/main.84f0069c.chunk.css",
+    "main.css": "/rpg-pills/static/css/main.9b92f698.chunk.css",
     "main.js": "/rpg-pills/static/js/main.4f50c912.chunk.js",
     "main.js.map": "/rpg-pills/static/js/main.4f50c912.chunk.js.map",
     "runtime-main.js": "/rpg-pills/static/js/runtime-main.f13ca426.js",
@@ -8,16 +8,16 @@
     "static/js/2.794dfd13.chunk.js": "/rpg-pills/static/js/2.794dfd13.chunk.js",
     "static/js/2.794dfd13.chunk.js.map": "/rpg-pills/static/js/2.794dfd13.chunk.js.map",
     "index.html": "/rpg-pills/index.html",
-    "precache-manifest.5aba8a6e8f9c2f2fabc8e827aea39b63.js": "/rpg-pills/precache-manifest.5aba8a6e8f9c2f2fabc8e827aea39b63.js",
+    "precache-manifest.86878ef455736a3f566fa0629a8e3a0f.js": "/rpg-pills/precache-manifest.86878ef455736a3f566fa0629a8e3a0f.js",
     "service-worker.js": "/rpg-pills/service-worker.js",
-    "static/css/main.84f0069c.chunk.css.map": "/rpg-pills/static/css/main.84f0069c.chunk.css.map",
+    "static/css/main.9b92f698.chunk.css.map": "/rpg-pills/static/css/main.9b92f698.chunk.css.map",
     "static/js/2.794dfd13.chunk.js.LICENSE.txt": "/rpg-pills/static/js/2.794dfd13.chunk.js.LICENSE.txt",
     "static/media/icon.svg": "/rpg-pills/static/media/icon.31a60fa9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f13ca426.js",
     "static/js/2.794dfd13.chunk.js",
-    "static/css/main.84f0069c.chunk.css",
+    "static/css/main.9b92f698.chunk.css",
     "static/js/main.4f50c912.chunk.js"
   ]
 }

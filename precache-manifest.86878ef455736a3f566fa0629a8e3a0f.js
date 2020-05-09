@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "578913604ed6f3c973d4c680276421d7",
+    "revision": "58e848fe9fd351014eb152f0afde0e67",
     "url": "/rpg-pills/index.html"
   },
   {
-    "revision": "eec0c9c90023973cbebd",
-    "url": "/rpg-pills/static/css/main.84f0069c.chunk.css"
+    "revision": "ddc2604043be2a17e3f6",
+    "url": "/rpg-pills/static/css/main.9b92f698.chunk.css"
   },
   {
     "revision": "826774331bd625f6ec64",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rpg-pills/static/js/2.794dfd13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eec0c9c90023973cbebd",
+    "revision": "ddc2604043be2a17e3f6",
     "url": "/rpg-pills/static/js/main.4f50c912.chunk.js"
   },
   {

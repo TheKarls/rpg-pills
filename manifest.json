@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "rpg-pills",
+  "name": "RPG Pills",
   "icons": [
     {
       "src": "favicon.ico",
