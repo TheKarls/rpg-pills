@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/rpg-pills/static/css/main.742769db.chunk.css",
-    "main.js": "/rpg-pills/static/js/main.4f50c912.chunk.js",
-    "main.js.map": "/rpg-pills/static/js/main.4f50c912.chunk.js.map",
+    "main.css": "/rpg-pills/static/css/main.2201b198.chunk.css",
+    "main.js": "/rpg-pills/static/js/main.a5f55058.chunk.js",
+    "main.js.map": "/rpg-pills/static/js/main.a5f55058.chunk.js.map",
     "runtime-main.js": "/rpg-pills/static/js/runtime-main.f13ca426.js",
     "runtime-main.js.map": "/rpg-pills/static/js/runtime-main.f13ca426.js.map",
     "static/js/2.794dfd13.chunk.js": "/rpg-pills/static/js/2.794dfd13.chunk.js",
     "static/js/2.794dfd13.chunk.js.map": "/rpg-pills/static/js/2.794dfd13.chunk.js.map",
     "index.html": "/rpg-pills/index.html",
-    "precache-manifest.480a3450fa166ccd120c7aba5167139d.js": "/rpg-pills/precache-manifest.480a3450fa166ccd120c7aba5167139d.js",
+    "precache-manifest.8adf187c162d2dd9fdf523187b21739b.js": "/rpg-pills/precache-manifest.8adf187c162d2dd9fdf523187b21739b.js",
     "service-worker.js": "/rpg-pills/service-worker.js",
-    "static/css/main.742769db.chunk.css.map": "/rpg-pills/static/css/main.742769db.chunk.css.map",
+    "static/css/main.2201b198.chunk.css.map": "/rpg-pills/static/css/main.2201b198.chunk.css.map",
     "static/js/2.794dfd13.chunk.js.LICENSE.txt": "/rpg-pills/static/js/2.794dfd13.chunk.js.LICENSE.txt",
+    "static/media/rpg-pills.scss": "/rpg-pills/static/media/header.acef1ba2.jpg",
     "static/media/icon.svg": "/rpg-pills/static/media/icon.31a60fa9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f13ca426.js",
     "static/js/2.794dfd13.chunk.js",
-    "static/css/main.742769db.chunk.css",
-    "static/js/main.4f50c912.chunk.js"
+    "static/css/main.2201b198.chunk.css",
+    "static/js/main.a5f55058.chunk.js"
   ]
 }
