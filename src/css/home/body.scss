@@ -31,3 +31,29 @@
     height: 100vh;
     background-color: blue;
 }
+
+
+@media only screen and (max-width: 600px) {
+
+    .artworksContainer{
+
+        flex-direction: column;
+        height: auto;
+
+    
+        .art{
+
+            width: 90%;
+            height: 40vh;
+        }
+    }
+
+
+    
+}
+
+@media only screen and (max-width: 400px) {
+
+ 
+  
+}
