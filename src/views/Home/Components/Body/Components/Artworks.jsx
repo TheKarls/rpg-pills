@@ -4,7 +4,7 @@ export default function Artworks(props){
     return(
         <>
 
-            <div className="artworksContainer">
+            <div id="Artworks" className="artworksContainer">
 
                 <div className="art"></div>
                 <div className="art"></div>

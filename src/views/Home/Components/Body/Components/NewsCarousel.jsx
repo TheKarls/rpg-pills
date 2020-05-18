@@ -4,7 +4,7 @@ export default function NewsCarousel(props){
     return(
         <>
 
-            <div className="newsCarousel"></div>
+            <div id="News" className="newsCarousel"></div>
 
         </>
     )

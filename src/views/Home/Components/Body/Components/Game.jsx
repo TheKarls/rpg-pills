@@ -4,7 +4,7 @@ export default function Game(props){
     return(
         <>
 
-            <div className="game"></div>
+            <div id="Game" className="game"></div>
 
         </>
     )
